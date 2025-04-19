@@ -15,9 +15,14 @@ A Wi-Fi-based temperature and humidity monitoring system using the ESP8266 and D
 
 ## 📷 Screenshots of Web Application
 
+> 📌 **Note:** The web application source code is currently not publicly available..
+
 <img src="image/image_2.png" alt="System Display" width="700"/>
 
 <img src="image/image_1.png" alt="System Display" width="700"/>
+
+
+---
 
 
 ## 🔌 Pin Configuration
@@ -28,9 +33,6 @@ A Wi-Fi-based temperature and humidity monitoring system using the ESP8266 and D
 | OLED Display   | SSD1306 I2C                      | SDA: D2 (GPIO4), SCL: D1 (GPIO5) |
 | Built-in LED   | Status indication                | D0 (GPIO16) |
 
-> 📌 **Note:** Make sure your OLED is wired for I2C with address `0x3C`.
-
----
 
 ## 📷 Schematic Diagram
 
