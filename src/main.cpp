@@ -178,7 +178,7 @@ void setup() {
     display.setCursor(0, 15);
 
     String ipAddress = "IP: " + WiFi.softAPIP().toString();
-    display.println(ipAddress);  // ✅ Works correctly
+    display.println(ipAddress); 
     
     display.display();
     delay(1000);
