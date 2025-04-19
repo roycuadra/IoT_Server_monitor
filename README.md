@@ -15,9 +15,10 @@ A Wi-Fi-based temperature and humidity monitoring system using the ESP8266 and D
 
 ## 📷 Screenshots of Web Application
 
+<img src="image/image_2.png" alt="System Display" width="700"/>
+
 <img src="image/image_1.png" alt="System Display" width="700"/>
 
-<img src="image/image_2.png" alt="System Display" width="700"/>
 
 ## 🔌 Pin Configuration
 
